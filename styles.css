@@ -1,0 +1,61 @@
+/* STYLES */
+
+body {
+    background-color: rgb(64, 64, 64);
+    text-align: justify;
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+    color: #ffffff;
+    margin: 1in;
+    max-width: 10in;
+    
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    max-width: 10in;
+}
+
+h4 {
+    text-align: right;
+    font-family: 'Courgette', cursive;
+}
+
+em {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: right;
+}
+
+h2 {
+    color: rgb(177, 177, 177);
+    margin: 5%;
+    font-size: 20px;
+    text-align: center;
+    max-width: 10in;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h3 {
+    text-align: left;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+font-family: 'Courgette', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Fira Sans', sans-serif;
+
+
+
+
+/* ANIMATIONS */
+@keyframes spin { 
+    from {rotate (0deg)}
+    to {rotate (360deg)}
+
+}
